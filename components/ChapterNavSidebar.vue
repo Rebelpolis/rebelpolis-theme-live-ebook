@@ -31,7 +31,7 @@
               v-if="isSingleChapterVisible"
               class="chapter-item__show-all"
             >
-              Show all chapters
+              Pokaż wszystko
             </button>
           </Transition>
         </ChapterItem>

@@ -3,7 +3,7 @@
     :href="$site.themeConfig.exitUrl"
     class="exit-button"
   >
-    Exit e-book
+    Wróć
   </a>
 </template>
 
